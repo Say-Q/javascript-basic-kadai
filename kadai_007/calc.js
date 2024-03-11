@@ -1,6 +1,6 @@
 let num;
 
-num = 15;
+num = 30;
 
 if (num === 3) {
     console.log("3の倍数です");
